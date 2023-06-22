@@ -19,6 +19,8 @@ export default function App() {
   console.log("aaaaa");
   console.log("bbbb");
   console.log("cccc");
+  console.log("dddddd");
+  
   return (
     <SafeAreaView style={styles.container}>
       {!currentSubject ? (
