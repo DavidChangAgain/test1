@@ -18,7 +18,7 @@ export default function App() {
   const [history, setHistory] = useState([]);
   console.log("aaaaa");
   console.log("bbbb");
-
+  console.log("cccc");
   return (
     <SafeAreaView style={styles.container}>
       {!currentSubject ? (
